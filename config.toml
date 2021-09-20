@@ -31,9 +31,9 @@ title = "Matilda Backendal"
 [params]
 
     [params.head]
-        author = "Matilda Backendal"
+        author = "Carl Barks"
         custom_css = ""
-        description = "Hi, I'm Matilda!"
+        description = "Hi, I'm Carl!"
         keywords = ["some", "keywords", "to", "describe", "this"]
 
     [params.navigation]
