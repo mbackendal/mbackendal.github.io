@@ -2,7 +2,7 @@
 # Global options
 baseURL = "/"
 canonifyURLs = true
-copyright = "© 2021 by Carl Barks. <a href='/privacy'>Privacy policy</a>."
+copyright = "© 2022 by Matilda Backendal. <a href='/privacy'>Privacy policy</a>."
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 languageCode = "en"
@@ -20,10 +20,6 @@ title = "Matilda Backendal"
     name = "Publications"
     url  = "/publications"
     weight = 2
-[[menu.main]]
-    name = "Blog"
-    url  = "/posts"
-    weight = 3
 
 
 
@@ -31,10 +27,10 @@ title = "Matilda Backendal"
 [params]
 
     [params.head]
-        author = "Carl Barks"
-        custom_css = ""
-        description = "Hi, I'm Carl!"
-        keywords = ["some", "keywords", "to", "describe", "this"]
+        author = "Matilda Backendal"
+        custom_css = "/custom.css"
+        description = "Hi, I'm Matilda"
+        keywords = ["cryptography", "academic", "ETH", "security", "doctorate"]
 
     [params.navigation]
         show_navigation = true
@@ -50,49 +46,39 @@ title = "Matilda Backendal"
         theme_color = "#333333"
         background_color = "#fcfbf9"
         text_color = "#333333"
-        link_color = "#60c17d"
+        link_color = "#44B"
 
     [params.social]
         [params.social.email]
             name = "E-Mail"
             class = "fas fa-envelope"
-            url = "mailto:your_name@your_institution.com"
+            url = "mailto:mbackendal@inf.ethz.ch"
             weight = 1
         [params.social.github]
             name = "GitHub"
             class = "fab fa-github"
-            url = ""
+            url = "https://github.com/mbackendal"
             weight = 2
         [params.social.google_scholar]
             name = "Google Scholar"
             class = "ai ai-google-scholar-square"
-            url = ""
+            url = "https://scholar.google.com/citations?user=oZZHf5EAAAAJ&hl=en"
             weight = 3
-        [params.social.instagram]
-            name = "Instagram"
-            class = "fab fa-instagram"
-            url = ""
-            weight = 4
         [params.social.institution]
             name = "My institution"
             class = "fas fa-university"
-            url = ""
+            url = "https://appliedcrypto.ethz.ch/people/person-detail.MjYyODM0.TGlzdC8zMzE4LC0yODgzMDgzMDc=.html"
             weight = 5
         [params.social.linkedin]
             name = "LinkedIn"
             class = "fab fa-linkedin"
-            url = ""
+            url = "https://linkedin.com/in/matilda-backendal"
             weight = 6
         [params.social.orcid]
             name = "ORCID iD"
             class = "fab fa-orcid"
-            url = ""
+            url = "https://orcid.org/0000-0002-8677-8301"
             weight = 7
-        [params.social.twitter]
-            name = "Twitter"
-            class = "fab fa-twitter"
-            url = ""
-            weight = 8
 
 
 

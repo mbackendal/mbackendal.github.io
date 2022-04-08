@@ -3,11 +3,8 @@ layout: landing_page
 image: avatar.jpg
 ---
 
-Hi, I'm Carl! 👋
+Hi, I'm Matilda,
 
-I am a Ph.D. student 🎓 in empirical barkology at Woof University where I work in the lab of Prof. Bark Twain 🏛
-Most of my research is driven by trying to find an answer to the age-old question of *"Who is a good boy?"* &nbsp;🐶❓
+I am a doctoral student in the [Applied Cryptography group](https://appliedcrypto.ethz.ch/) at ETH Zurich, advised by Professor Kenny Paterson.
 
-In my free time, I like running 🐕💨, playing frisbee 🥏 and trying new foods! 🦴
-
-Please feel free to get in touch! 📧
+Please feel free to [get in touch](mailto:mbackendal@inf.ethz.ch)!
