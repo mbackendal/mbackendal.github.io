@@ -46,7 +46,7 @@ title = "Matilda Backendal"
         theme_color = "#333333"
         background_color = "#fcfbf9"
         text_color = "#333333"
-        link_color = "#44B"
+        link_color = "#17442a"
 
     [params.social]
         [params.social.email]
