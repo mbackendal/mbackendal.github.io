@@ -39,7 +39,8 @@ title = "Matilda Backendal"
         show_footer = true
 
     [params.typography]
-        title_font = "Urbanist"
+#        title_font = "Urbanist"
+        title_font = "Cutive Mono"
         body_font = "Source Sans Pro"
 
     [params.colors]
