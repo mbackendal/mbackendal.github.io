@@ -20,6 +20,10 @@ title = "Matilda Backendal"
     name = "Publications"
     url  = "/publications"
     weight = 2
+#[[menu.main]]
+#    name = "Teaching"
+#    url  = "/teaching"
+#    weight = 2
 
 
 
