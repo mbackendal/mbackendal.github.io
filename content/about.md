@@ -3,8 +3,6 @@ title: "About"
 math: false
 ---
 
-Hi, I'm Matilda!
-
 I'm a PhD student (well, technically a "doctoral candidate") at ETH Zurich, where I do research in provable security for applied cryptography with a focus on forward security.
 I've also [recently tried my hand at cryptanalysis](https://mega-awry.io/).
 My supervisor is [Kenny Paterson](https://appliedcrypto.ethz.ch/people/person-detail.MjU0MDM1.TGlzdC8zMzE4LC0yODgzMDgzMDc=.html).
