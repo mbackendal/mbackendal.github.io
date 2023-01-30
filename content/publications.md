@@ -16,7 +16,7 @@ pp. ??–??. IEEE, May 2023
 *M. Backendal, F. Günther, and K.G. Paterson*  
 <sm>
 28th International Conference on the Theory and Application of Cryptology and Information Security (ASIACRYPT 2022)  
-Lecture Notes in Computer Science, Volume ?????, pp. ??–??. Springer, Dec 2022.
+Lecture Notes in Computer Science, Volume 13792, pp. 651–681. Springer, Dec 2022.
 </sm>
 
 1. [**The Fiat-Shamir Zoo: Relating the Security of Different Signature Variants**](https://eprint.iacr.org/2018/775)  
