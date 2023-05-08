@@ -5,6 +5,13 @@ hide_title: true
 
 # Peer-reviewed papers
 
+1. **When Messages are Keys: Is HMAC a dual-PRF?** (to appear)  
+*M. Backendal, M. Bellare, F. Günther and M. Scarlata*  
+<sm>
+43rd Annual International Cryptology Conference, (CRYPTO 2023)  
+Lecture Notes in Computer Science, pp. ??. Springer, Aug. 2023
+</sm>
+
 1. [**MEGA: Malleable Encryption Goes Awry**](https://mega-awry.io/) (to appear)  
 *M. Backendal, M. Haller, and K.G. Paterson*  
 <sm>
@@ -23,7 +30,7 @@ Lecture Notes in Computer Science, Volume 13792, pp. 651–681. Springer, Dec 20
 *M. Backendal, M. Bellare, J. Sorrell, and J. Sun*  
 <sm>
 Secure IT Systems - 23rd Nordic Conference (NordSec 2018)  
-Lecture Notes in Computer Science, pp. 154–170. Springer, Nov 2018  
+Lecture Notes in Computer Science, Volume 11252, pp. 154–170. Springer, Nov 2018  
 </sm>
 
 # Theses
