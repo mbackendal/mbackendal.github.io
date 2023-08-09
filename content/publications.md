@@ -5,11 +5,11 @@ hide_title: true
 
 # Peer-reviewed papers
 
-1. [**When Messages Are Keys: Is HMAC a Dual-PRF?**](https://eprint.iacr.org/2023/861) (to appear)  
+1. [**When Messages Are Keys: Is HMAC a Dual-PRF?**](https://eprint.iacr.org/2023/861)  
 *M. Backendal, M. Bellare, F. Günther and M. Scarlata*  
 <sm>
 43rd Annual International Cryptology Conference, (CRYPTO 2023)  
-Lecture Notes in Computer Science, pp. ??. Springer, Aug. 2023
+Lecture Notes in Computer Science, pp. 661–693. Springer, Aug. 2023
 </sm>
 
 1. [**MEGA: Malleable Encryption Goes Awry**](https://mega-awry.io/)  
