@@ -4,6 +4,12 @@ hide_title: true
 ---
 
 # Peer-reviewed papers
+1. [**Share with Care: Breaking E2EE in Nextcloud**](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/appliedcrypto/education/theses/nextcloud.pdf)  
+*M. Albrecht, M. Backendal, D. Coppola, K. Paterson*  
+<sm>
+IEEE European Symposium on Security and Privacy 2024 (Euro S&P 2024)  
+TBD
+</sm>
 
 1. [**When Messages Are Keys: Is HMAC a Dual-PRF?**](https://eprint.iacr.org/2023/861)  
 *M. Backendal, M. Bellare, F. Günther and M. Scarlata*  
@@ -11,6 +17,7 @@ hide_title: true
 43rd Annual International Cryptology Conference, (CRYPTO 2023)  
 Lecture Notes in Computer Science, pp. 661–693. Springer, Aug. 2023
 </sm>
+[Talk at CRYPTO](https://youtu.be/ncfEyayk2vs?t=150)
 
 1. [**MEGA: Malleable Encryption Goes Awry**](https://mega-awry.io/)  
 *M. Backendal, M. Haller, and K.G. Paterson*  
