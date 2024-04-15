@@ -1,10 +1,10 @@
 ---
-title: Publications
+title: Publications & Talks
 hide_title: true
 ---
 
 # Peer-reviewed papers
-1. [**Share with Care: Breaking E2EE in Nextcloud**](https://ethz.ch/content/dam/ethz/special-interest/infk/inst-infsec/appliedcrypto/education/theses/nextcloud.pdf)  
+1. [**Share with Care: Breaking E2EE in Nextcloud**](https://eprint.iacr.org/2024/546)  
 *M. Albrecht, M. Backendal, D. Coppola, K. Paterson*  
 <sm>
 IEEE European Symposium on Security and Privacy 2024 (Euro S&P 2024)  
@@ -39,6 +39,17 @@ Lecture Notes in Computer Science, Volume 13792, pp. 651–681. Springer, Dec 20
 Secure IT Systems - 23rd Nordic Conference (NordSec 2018)  
 Lecture Notes in Computer Science, Volume 11252, pp. 154–170. Springer, Nov 2018  
 </sm>
+
+
+# Articles
+1. [**End-to-End Encrypted Cloud Storage**](https://static.cryptanalysis.fun/papers/e2ee-cloud-storage.pdf)  
+*M. Backendal, M. Haller, and K.G. Paterson*  
+<sm>
+IEEE Security and Privacy (S&P Magazine)  
+Volume 22, Issue 2, pp. 69-74, March-April 2024
+DOI: [10.1109/MSEC.2024.3352788](10.1109/MSEC.2024.3352788)
+</sm>
+
 
 # Theses
 
