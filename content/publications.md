@@ -4,18 +4,32 @@ hide_title: true
 ---
 
 # Peer-reviewed papers
-1. [**Share with Care: Breaking E2EE in Nextcloud**](https://eprint.iacr.org/2024/546)  
-*M. Albrecht, M. Backendal, D. Coppola, K. Paterson*  
+1. [**A Formal Treatment of End-to-End Encrypted Cloud Storage**](https://eprint.iacr.org/2024/989)  
+*M. Backendal, H. Davis, F. Günther, M. Haller, and K.G. Paterson*  
+<sm>
+44th Annual International Cryptology Conference (CRYPTO 2024)  
+(To appear)
+</sm>
+
+1. [**MFKDF: Multiple Factors Knocked Down Flat**](https://eprint.iacr.org/2024/935)  
+*M. Scarlata, M. Backendal, and M. Haller*  
+<sm>
+33rd USENIX Security Symposium (USENIX 2024)  
+(To appear)
+</sm>
+
+1. [**Share with Care: Breaking E2EE in Nextcloud**](https://eprint.iacr.org/2024/546)   
+*M. Albrecht, M. Backendal, D. Coppola, and K.G. Paterson*  
 <sm>
 IEEE European Symposium on Security and Privacy 2024 (Euro S&P 2024)  
-TBD
+(To appear)
 </sm>
 
 1. [**When Messages Are Keys: Is HMAC a Dual-PRF?**](https://eprint.iacr.org/2023/861)  
-*M. Backendal, M. Bellare, F. Günther and M. Scarlata*  
+*M. Backendal, M. Bellare, F. Günther, and M. Scarlata*  
 <sm>
-43rd Annual International Cryptology Conference, (CRYPTO 2023)  
-Lecture Notes in Computer Science, pp. 661–693. Springer, Aug. 2023
+43rd Annual International Cryptology Conference (CRYPTO 2023)  
+Lecture Notes in Computer Science, Volume 14083, pp. 661–693. Springer, Aug. 2023
 </sm>
 [Talk at CRYPTO](https://youtu.be/ncfEyayk2vs?t=150)
 
@@ -56,5 +70,5 @@ DOI: [10.1109/MSEC.2024.3352788](10.1109/MSEC.2024.3352788)
 **<sm> Master thesis </sm>**
 [Puncturable Symmetric KEMs for Forward-Secret 0-RTT Key Exchange](https://lup.lub.lu.se/student-papers/search/publication/8979963)  
 <sm> *M. Backendal*,
-Lunds Tekniska Högskola, June 2019  
+Lund University, Faculty of Engineering (LTH), June 2019  
 </sm>

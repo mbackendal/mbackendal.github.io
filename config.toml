@@ -2,7 +2,7 @@
 # Global options
 baseURL = "/"
 canonifyURLs = true
-copyright = "© 2023 by Matilda Backendal. <a href='/privacy'>Privacy policy</a>."
+copyright = "© 2024 by Matilda Backendal. <a href='/privacy'>Privacy policy</a>."
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 languageCode = "en"
