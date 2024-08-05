@@ -22,7 +22,6 @@ hide_title: true
 *M. Albrecht, M. Backendal, D. Coppola, and K.G. Paterson*  
 <sm>
 IEEE European Symposium on Security and Privacy 2024 (Euro S&P 2024)  
-(To appear)
 </sm>
 
 1. [**When Messages Are Keys: Is HMAC a Dual-PRF?**](https://eprint.iacr.org/2023/861)  
@@ -33,12 +32,14 @@ Lecture Notes in Computer Science, Volume 14083, pp. 661–693. Springer, Aug. 2
 </sm>
 [Talk at CRYPTO](https://youtu.be/ncfEyayk2vs?t=150)
 
-1. [**MEGA: Malleable Encryption Goes Awry**](https://mega-awry.io/)  
+1. [**MEGA: Malleable Encryption Goes Awry**](https://mega-awry.io/) ★  
 *M. Backendal, M. Haller, and K.G. Paterson*  
 <sm>
 44th IEEE Symposium on Security and Privacy (SP 2023)  
-pp. 146-163. IEEE, May 2023
+pp. 146-163. IEEE, May 2023  
+★ [Distinguished paper award](https://www.ieee-security.org/TC/SP2023/program-awards.html)
 </sm>
+
 
 1. [**Puncturable Key Wrapping and Its Applications**](https://eprint.iacr.org/2022/1209)   
 *M. Backendal, F. Günther, and K.G. Paterson*  
