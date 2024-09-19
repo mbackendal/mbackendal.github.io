@@ -8,14 +8,14 @@ hide_title: true
 *M. Backendal, H. Davis, F. Günther, M. Haller, and K.G. Paterson*  
 <sm>
 44th Annual International Cryptology Conference (CRYPTO 2024)  
-(To appear)
+Lecture Notes in Computer Science, Volume 14921, pp. 40-74, Springer, Aug. 2024  
 </sm>
+[Talk at CRYPTO](https://youtu.be/epiON1Kjr8o?feature=shared&t=1110)
 
 1. [**MFKDF: Multiple Factors Knocked Down Flat**](https://eprint.iacr.org/2024/935)  
 *M. Scarlata, M. Backendal, and M. Haller*  
 <sm>
 33rd USENIX Security Symposium (USENIX 2024)  
-(To appear)
 </sm>
 
 1. [**Share with Care: Breaking E2EE in Nextcloud**](https://eprint.iacr.org/2024/546)   
@@ -28,7 +28,7 @@ IEEE European Symposium on Security and Privacy 2024 (Euro S&P 2024)
 *M. Backendal, M. Bellare, F. Günther, and M. Scarlata*  
 <sm>
 43rd Annual International Cryptology Conference (CRYPTO 2023)  
-Lecture Notes in Computer Science, Volume 14083, pp. 661–693. Springer, Aug. 2023
+Lecture Notes in Computer Science, Volume 14083, pp. 661–693. Springer, Aug. 2023  
 </sm>
 [Talk at CRYPTO](https://youtu.be/ncfEyayk2vs?t=150)
 
