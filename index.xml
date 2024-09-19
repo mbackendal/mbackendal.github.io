@@ -1,17 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Matilda Backendal</title><link>/</link><description>Recent content on Matilda Backendal</description><generator>Hugo</generator><language>en</language><copyright>© 2024 by Matilda Backendal. &lt;a href='/privacy'>Privacy policy&lt;/a>.</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>I&amp;rsquo;m a PhD student (well, technically a &amp;ldquo;doctoral candidate&amp;rdquo;) at ETH Zurich, where I do research in provable security for applied cryptography with a focus on cloud storage. I also sometimes end up doing a bit of cryptanalysis. My supervisor is Kenny Paterson.
-Before I joined ETH, I studied engineering mathematics at Lunds Tekniska Högskola (LTH) in Sweden. I also worked with Mihir Bellare during an exchange at UCSD. I wrote my master thesis on puncturable symmetric key encapsulation mechanisms, supervised by Felix Günther.</description></item><item><title>Privacy policy</title><link>/privacy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/privacy/</guid><description>Links to other websites Other websites referenced here may collect information about you, use cookies, embed additional tracking services from third parties, and record your interaction with that embedded content, including your interaction with the embedded content if you have an account and are signed in to that website.</description></item><item><title>Publications &amp; Talks</title><link>/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/publications/</guid><description>Peer-reviewed papers A Formal Treatment of End-to-End Encrypted Cloud Storage
-M. Backendal, H. Davis, F. Günther, M. Haller, and K.G. Paterson
-44th Annual International Cryptology Conference (CRYPTO 2024)
-(To appear) MFKDF: Multiple Factors Knocked Down Flat
-M. Scarlata, M. Backendal, and M. Haller
-33rd USENIX Security Symposium (USENIX 2024)
-(To appear) Share with Care: Breaking E2EE in Nextcloud
-M. Albrecht, M. Backendal, D. Coppola, and K.G. Paterson
-IEEE European Symposium on Security and Privacy 2024 (Euro S&amp;amp;P 2024)</description></item><item><title>Talks</title><link>/talks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/talks/</guid><description>Selected talks Thriving in Between Theory and Practice: How Applied Cryptography Bridges the Gap
-NIST CRC 2024: Talk overview, PDF slides
-When Messages Are Keys: Is HMAC a Dual-PRF?
-CRYPTO 2024: Video
-Why E2EE Cloud Storage is hard - Challenges, Attacks and Best Practices
-RWC 2023: Video
-With Miro Haller Puncturable Key Wrapping and Its Applications Asiacrypt 2022: Video</description></item><item><title>Teaching</title><link>/teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/teaching/</guid><description>When one teaches, two learn. –Robert Heinlein
-I think teaching is one of the most rewarding activities one can engage in. There is a profound joy in watching someone have an &amp;ldquo;aha&amp;rdquo;-moment and see how things fall into place. I also think it&amp;rsquo;s one of the best ways to learn new things myself. Students&amp;rsquo; questions and muddy points challenge my understanding of the topic I&amp;rsquo;m teaching, and their background knowledge and insights broaden my perspective.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Matilda Backendal</title><link>/</link><description>Recent content on Matilda Backendal</description><generator>Hugo</generator><language>en</language><copyright>© 2024 by Matilda Backendal. &lt;a href='/privacy'>Privacy policy&lt;/a>.</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>&lt;p>I&amp;rsquo;m a PhD student (well, technically a &amp;ldquo;doctoral candidate&amp;rdquo;) at ETH Zurich, where I do research in provable security for applied cryptography with a focus on &lt;a href="https://eprint.iacr.org/2024/989">cloud storage&lt;/a>.
+I also &lt;a href="https://mega-awry.io/">sometimes&lt;/a> &lt;a href="https://eprint.iacr.org/2024/935">end up doing&lt;/a> &lt;a href="https://eprint.iacr.org/2024/546">a bit of cryptanalysis&lt;/a>.
+My supervisor is &lt;a href="https://appliedcrypto.ethz.ch/people/person-detail.MjU0MDM1.TGlzdC8zMzE4LC0yODgzMDgzMDc=.html">Kenny Paterson&lt;/a>.&lt;/p>
+&lt;p>Before I joined ETH, I studied engineering mathematics at Lunds Tekniska Högskola (LTH) in Sweden. I also worked with &lt;a href="https://cseweb.ucsd.edu/~mihir/">Mihir Bellare&lt;/a> during an exchange at UCSD. I wrote &lt;a href="https://lup.lub.lu.se/student-papers/search/publication/8979963">my master thesis&lt;/a> on puncturable symmetric key encapsulation mechanisms, supervised by &lt;a href="https://www.felixguenther.info/">Felix Günther&lt;/a>.&lt;/p></description></item><item><title>Privacy policy</title><link>/privacy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/privacy/</guid><description>&lt;h2 id="links-to-other-websites">Links to other websites&lt;/h2>
+&lt;p>Other websites referenced here may collect information about you, use cookies, embed additional tracking services from third parties, and record your interaction with that embedded content, including your interaction with the embedded content if you have an account and are signed in to that website.&lt;/p></description></item><item><title>Publications &amp; Talks</title><link>/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/publications/</guid><description>&lt;h1 id="peer-reviewed-papers">Peer-reviewed papers&lt;/h1>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;a href="https://eprint.iacr.org/2024/989">&lt;strong>A Formal Treatment of End-to-End Encrypted Cloud Storage&lt;/strong>&lt;/a>&lt;br />
+&lt;em>M. Backendal, H. Davis, F. Günther, M. Haller, and K.G. Paterson&lt;/em>&lt;br />
+&lt;sm>
+44th Annual International Cryptology Conference (CRYPTO 2024)&lt;br />
+Lecture Notes in Computer Science, Volume 14921, pp. 40-74, Springer, Aug. 2024&lt;br />
+&lt;/sm>
+&lt;a href="https://youtu.be/epiON1Kjr8o?feature=shared&amp;amp;t=1110">Talk at CRYPTO&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://eprint.iacr.org/2024/935">&lt;strong>MFKDF: Multiple Factors Knocked Down Flat&lt;/strong>&lt;/a>&lt;br />
+&lt;em>M. Scarlata, M. Backendal, and M. Haller&lt;/em>&lt;br />
+&lt;sm>
+33rd USENIX Security Symposium (USENIX 2024)&lt;br />
+&lt;/sm>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://eprint.iacr.org/2024/546">&lt;strong>Share with Care: Breaking E2EE in Nextcloud&lt;/strong>&lt;/a>&lt;br />
+&lt;em>M. Albrecht, M. Backendal, D. Coppola, and K.G. Paterson&lt;/em>&lt;br />
+&lt;sm>
+IEEE European Symposium on Security and Privacy 2024 (Euro S&amp;amp;P 2024)&lt;br />
+&lt;/sm>&lt;/p></description></item><item><title>Talks</title><link>/talks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/talks/</guid><description>&lt;h1 id="selected-talks">Selected talks&lt;/h1>
+&lt;ol>
+&lt;li>
+&lt;p>&lt;strong>Thriving in Between Theory and Practice: How Applied Cryptography Bridges the Gap&lt;/strong>&lt;br />
+NIST CRC 2024: &lt;a href="https://csrc.nist.gov/presentations/2024/crclub-2024-04-03">Talk overview&lt;/a>, &lt;a href="https://csrc.nist.gov/csrc/media/presentations/2024/crclub-2024-04-03/images-media/crypto-club-20240404-Matilda-and-Miro--Gap-Theory-Practice-Crypto--slides.pdf">PDF slides&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>When Messages Are Keys: Is HMAC a Dual-PRF?&lt;/strong>&lt;br />
+CRYPTO 2024: &lt;a href="https://youtu.be/ncfEyayk2vs?t=150">Video&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Why E2EE Cloud Storage is hard - Challenges, Attacks and Best Practices&lt;/strong>&lt;br />
+RWC 2023: &lt;a href="https://youtu.be/9uIpmz2GAew?feature=shared&amp;amp;t=1951">Video&lt;/a>&lt;br />
+&lt;sm> With Miro Haller &lt;/sm>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;strong>Puncturable Key Wrapping and Its Applications&lt;/strong> &lt;br />
+Asiacrypt 2022: &lt;a href="https://youtu.be/mhcNpO2vjuQ?feature=shared&amp;amp;t=2162">Video&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol></description></item><item><title>Teaching</title><link>/teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/teaching/</guid><description>&lt;p>&lt;q>When one teaches, two learn.&lt;/q> –Robert Heinlein&lt;br />
+I think teaching is one of the most rewarding activities one can engage in.
+There is a profound joy in watching someone have an &amp;ldquo;aha&amp;rdquo;-moment and see how things fall into place.
+I also think it&amp;rsquo;s one of the best ways to learn new things myself.
+Students&amp;rsquo; questions and muddy points challenge my understanding of the topic I&amp;rsquo;m teaching, and their background knowledge and insights broaden my perspective.
+All of this makes teaching a fulfilling and gratifying experience.&lt;/p></description></item></channel></rss>
