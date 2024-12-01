@@ -3,7 +3,7 @@ title: "About"
 math: false
 ---
 
-I'm a PhD student (well, technically a "doctoral candidate") at ETH Zurich, where I do research in provable security for applied cryptography with a focus on [cloud storage](https://eprint.iacr.org/2024/989).
+I'm a PhD student (well, technically a "doctoral candidate") at ETH Zurich, where I do research in provable security for applied cryptography with a special interest in [cloud storage](https://eprint.iacr.org/2024/989).
 I also [sometimes](https://mega-awry.io/) [end up doing](https://eprint.iacr.org/2024/935) [a bit of cryptanalysis](https://eprint.iacr.org/2024/546).
 My supervisor is [Kenny Paterson](https://appliedcrypto.ethz.ch/people/person-detail.MjU0MDM1.TGlzdC8zMzE4LC0yODgzMDgzMDc=.html).
 
