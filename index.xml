@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Matilda Backendal</title><link>/</link><description>Recent content on Matilda Backendal</description><generator>Hugo</generator><language>en</language><copyright>© 2024 by Matilda Backendal. &lt;a href='/privacy'>Privacy policy&lt;/a>.</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>&lt;p>I&amp;rsquo;m a PhD student (well, technically a &amp;ldquo;doctoral candidate&amp;rdquo;) at ETH Zurich, where I do research in provable security for applied cryptography with a focus on &lt;a href="https://eprint.iacr.org/2024/989">cloud storage&lt;/a>.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Matilda Backendal</title><link>/</link><description>Recent content on Matilda Backendal</description><generator>Hugo</generator><language>en</language><copyright>© 2024 by Matilda Backendal. &lt;a href='/privacy'>Privacy policy&lt;/a>.</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>&lt;p>I&amp;rsquo;m a PhD student (well, technically a &amp;ldquo;doctoral candidate&amp;rdquo;) at ETH Zurich, where I do research in provable security for applied cryptography with a special interest in &lt;a href="https://eprint.iacr.org/2024/989">cloud storage&lt;/a>.
 I also &lt;a href="https://mega-awry.io/">sometimes&lt;/a> &lt;a href="https://eprint.iacr.org/2024/935">end up doing&lt;/a> &lt;a href="https://eprint.iacr.org/2024/546">a bit of cryptanalysis&lt;/a>.
 My supervisor is &lt;a href="https://appliedcrypto.ethz.ch/people/person-detail.MjU0MDM1.TGlzdC8zMzE4LC0yODgzMDgzMDc=.html">Kenny Paterson&lt;/a>.&lt;/p>
 &lt;p>Before I joined ETH, I studied engineering mathematics at Lunds Tekniska Högskola (LTH) in Sweden. I also worked with &lt;a href="https://cseweb.ucsd.edu/~mihir/">Mihir Bellare&lt;/a> during an exchange at UCSD. I wrote &lt;a href="https://lup.lub.lu.se/student-papers/search/publication/8979963">my master thesis&lt;/a> on puncturable symmetric key encapsulation mechanisms, supervised by &lt;a href="https://www.felixguenther.info/">Felix Günther&lt;/a>.&lt;/p></description></item><item><title>Privacy policy</title><link>/privacy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/privacy/</guid><description>&lt;h2 id="links-to-other-websites">Links to other websites&lt;/h2>
@@ -40,9 +40,18 @@ Google (virtual): November 2024 (with Miro Haller)&lt;/p>
 &lt;p>&lt;strong>Thriving in Between Theory and Practice: How Applied Cryptography Bridges the Gap&lt;/strong>&lt;br />
 Cornell Tech (New York, USA): April 2024&lt;br />
 NIST Crypto Reading Club (virtual): April 2024 [&lt;a href="https://csrc.nist.gov/presentations/2024/crclub-2024-04-03">overview&lt;/a>, &lt;a href="https://csrc.nist.gov/csrc/media/presentations/2024/crclub-2024-04-03/images-media/crypto-club-20240404-Matilda-and-Miro--Gap-Theory-Practice-Crypto--slides.pdf">slides&lt;/a>] (with Miro Haller)&lt;br />
-&lt;a href="https://zisc.ethz.ch/event/thriving-in-between-theory-and-practice-how-applied-cryptography-bridges-the-gap/">ZISC Seminar&lt;/a> (ETH Zurich, Switzerland): May 2024 (with Miro Haller)&lt;/p></description></item><item><title>Teaching</title><link>/teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/teaching/</guid><description>&lt;p>&lt;q>When one teaches, two learn.&lt;/q> –Robert Heinlein&lt;br />
-I think teaching is one of the most rewarding activities one can engage in.
-There is a profound joy in watching someone have an &amp;ldquo;aha&amp;rdquo;-moment and see how things fall into place.
-I also think it&amp;rsquo;s one of the best ways to learn new things myself.
-Students&amp;rsquo; questions and muddy points challenge my understanding of the topic I&amp;rsquo;m teaching, and their background knowledge and insights broaden my perspective.
-All of this makes teaching a fulfilling and gratifying experience.&lt;/p></description></item></channel></rss>
+&lt;a href="https://zisc.ethz.ch/event/thriving-in-between-theory-and-practice-how-applied-cryptography-bridges-the-gap/">ZISC Seminar&lt;/a> (ETH Zurich, Switzerland): May 2024 (with Miro Haller)&lt;/p></description></item><item><title>Teaching</title><link>/teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/teaching/</guid><description>&lt;p>&lt;q>When one teaches, two learn.&lt;/q> –Robert Heinlein&lt;/p>
+&lt;h2 id="teaching-activities">Teaching Activities&lt;/h2>
+&lt;p>I&amp;rsquo;ve had the opportunity to teach a wide range of different topics, from sailing to English and mathematics.
+Here are some of the more memorable experiences.&lt;/p>
+&lt;h3 id="thesis-supervision">Thesis supervision&lt;/h3>
+&lt;p>Master&amp;rsquo;s thesis projects:&lt;/p>
+&lt;ul>
+&lt;li>Giovanni Torrisi, &amp;ldquo;Analyzing Cryptography in the Wild: Bitwarden&amp;rdquo;, Fall 2024&lt;/li>
+&lt;li>Nicola Dardanis, &amp;ldquo;Bridging the Gap: Design and Implementation of Secure Shared Folders&amp;rdquo;, Summer 2024 (co-supervised by Matteo Scarlata)&lt;/li>
+&lt;li>Valentina Iliescu, &amp;ldquo;Multi-Device Password Hardening&amp;rdquo;, Spring 2024 (co-supervised by Matteo Scarlata)&lt;/li>
+&lt;li>Léa Micheloud, &amp;ldquo;Securing Cloud Storage with OpenPGP: An Analysis of Proton Drive&amp;rdquo;, Fall 2023 (co-supervised by Daniel Huigens at Proton AG)&lt;/li>
+&lt;li>Younis Khalil, &amp;ldquo;Implementing a Forward-Secure Cloud Storage System&amp;rdquo;, Spring 2023 (co-supervised by Felix Günther)&lt;/li>
+&lt;li>Miro Haller, &amp;ldquo;Cloud Storage Systems: From Bad Practice to Practical Attacks&amp;rdquo;, Spring 2022 (co-supervised by Kenny Paterson)&lt;/li>
+&lt;/ul>
+&lt;p>Bachelor&amp;rsquo;s thesis and semester thesis projects:&lt;/p></description></item></channel></rss>
