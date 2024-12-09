@@ -11,6 +11,7 @@ Apple (virtual): October 2024 (with Miro Haller)
 Amazon AWS (virtual): October 2024 (with Miro Haller)  
 LTH, Lund University (Lund, Sweden): October 2024  
 Google (virtual): November 2024 (with Miro Haller)  
+University of St. Gallen (St. Gallen, Switzerland): December 2024  
 
 - **Thriving in Between Theory and Practice: How Applied Cryptography Bridges the Gap**  
 Cornell Tech (New York, USA): April 2024  
