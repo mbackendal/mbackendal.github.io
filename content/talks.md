@@ -4,6 +4,12 @@ hide_title: true
 ---
 
 # Selected talks
+- **Key Derivation Functions Without a Grain of Salt**  
+EUROCRYPT (Madrid, Spain): May 2025
+
+- **Provable Security for End-to-End Encrypted Cloud Storage**  
+RWC (Sofia, Bulgaria): March 2025 [[video](https://www.youtube.com/live/6FQX2otSbuE?feature=shared&t=506)] (with Miro Haller)  
+
 - **A Formal Treatment of End-to-End Encrypted Cloud Storage**  
 CRYPTO (Santa Barbara, USA): August 2024 [[video](https://youtu.be/epiON1Kjr8o?feature=shared&t=1109)] (with Miro Haller)  
 Trail of Bits (virtual): September 2024 (with Miro Haller)  
