@@ -4,6 +4,13 @@ hide_title: true
 ---
 
 # Peer-reviewed papers
+1. [**Key Derivation Functions Without a Grain of Salt**](https://eprint.iacr.org/2025/657)  
+*M. Backendal, S. Clermont, M. Fischlin, and F. Günther*  
+<sm>
+44th Annual International Conference on the Theory and Applications of Cryptographic Techniques (EUROCRYPT 2025)
+Lecture Notes in Computer Science, Volume 15608 pp. 393–426. Springer, May 2025  
+</sm>
+
 1. [**A Formal Treatment of End-to-End Encrypted Cloud Storage**](https://eprint.iacr.org/2024/989)  
 *M. Backendal, H. Davis, F. Günther, M. Haller, and K.G. Paterson*  
 <sm>
