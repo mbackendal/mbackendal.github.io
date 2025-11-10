@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matilda Backendal</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Matilda Backendal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© 2025 by Matilda Backendal. &lt;a href=&#39;//localhost:1313/privacy&#39;&gt;Privacy policy&lt;/a&gt;.</copyright>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a PhD student (well, technically a &amp;ldquo;doctoral candidate&amp;rdquo;) at ETH Zurich, where I do research in provable security for applied cryptography with a special interest in &lt;a href=&#34;https://eprint.iacr.org/2024/989&#34;&gt;cloud storage&lt;/a&gt;.&#xA;I also &lt;a href=&#34;https://mega-awry.io/&#34;&gt;sometimes&lt;/a&gt; &lt;a href=&#34;https://eprint.iacr.org/2024/935&#34;&gt;end up doing&lt;/a&gt; &lt;a href=&#34;https://eprint.iacr.org/2024/546&#34;&gt;a bit of cryptanalysis&lt;/a&gt;.&#xA;My supervisor is &lt;a href=&#34;https://appliedcrypto.ethz.ch/people/person-detail.MjU0MDM1.TGlzdC8zMzE4LC0yODgzMDgzMDc=.html&#34;&gt;Kenny Paterson&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I recently spent four months working at Apple as an intern in the Cryptographic Engineering team within &lt;a href=&#34;https://security.apple.com/&#34;&gt;Apple Security Engineering and Architecture (SEAR)&lt;/a&gt;, applying my research to real-world cryptographic systems.&#xA;Speaking of real world: my co-authors and I had three talks accepted at Real World Crypto 2025!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy policy</title>
+      <link>//localhost:1313/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/privacy/</guid>
+      <description>&lt;h2 id=&#34;links-to-other-websites&#34;&gt;Links to other websites&lt;/h2&gt;&#xA;&lt;p&gt;Other websites referenced here may collect information about you, use cookies, embed additional tracking services from third parties, and record your interaction with that embedded content, including your interaction with the embedded content if you have an account and are signed in to that website.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Publications &amp; Talks</title>
+      <link>//localhost:1313/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/publications/</guid>
+      <description>&lt;h1 id=&#34;peer-reviewed-papers&#34;&gt;Peer-reviewed papers&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://eprint.iacr.org/2025/657&#34;&gt;&lt;strong&gt;Key Derivation Functions Without a Grain of Salt&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;&#xA;&lt;em&gt;M. Backendal, S. Clermont, M. Fischlin, and F. Günther&lt;/em&gt;&lt;br /&gt;&#xA;&lt;sm&gt;&#xA;44th Annual International Conference on the Theory and Applications of Cryptographic Techniques (EUROCRYPT 2025)&#xA;Lecture Notes in Computer Science, Volume 15608 pp. 393–426. Springer, May 2025&lt;br /&gt;&#xA;&lt;/sm&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://eprint.iacr.org/2024/989&#34;&gt;&lt;strong&gt;A Formal Treatment of End-to-End Encrypted Cloud Storage&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;&#xA;&lt;em&gt;M. Backendal, H. Davis, F. Günther, M. Haller, and K.G. Paterson&lt;/em&gt;&lt;br /&gt;&#xA;&lt;sm&gt;&#xA;44th Annual International Cryptology Conference (CRYPTO 2024)&lt;br /&gt;&#xA;Lecture Notes in Computer Science, Volume 14921, pp. 40-74, Springer, Aug. 2024&lt;br /&gt;&#xA;&lt;/sm&gt;&#xA;&lt;a href=&#34;https://youtu.be/epiON1Kjr8o?feature=shared&amp;amp;t=1110&#34;&gt;Talk at CRYPTO&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Talks</title>
+      <link>//localhost:1313/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/talks/</guid>
+      <description>&lt;h1 id=&#34;selected-talks&#34;&gt;Selected talks&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Key Derivation Functions Without a Grain of Salt&lt;/strong&gt;&lt;br /&gt;&#xA;EUROCRYPT (Madrid, Spain): May 2025&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Provable Security for End-to-End Encrypted Cloud Storage&lt;/strong&gt;&lt;br /&gt;&#xA;RWC (Sofia, Bulgaria): March 2025 [&lt;a href=&#34;https://www.youtube.com/live/6FQX2otSbuE?feature=shared&amp;amp;t=506&#34;&gt;video&lt;/a&gt;] (with Miro Haller)&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;A Formal Treatment of End-to-End Encrypted Cloud Storage&lt;/strong&gt;&lt;br /&gt;&#xA;CRYPTO (Santa Barbara, USA): August 2024 [&lt;a href=&#34;https://youtu.be/epiON1Kjr8o?feature=shared&amp;amp;t=1109&#34;&gt;video&lt;/a&gt;] (with Miro Haller)&lt;br /&gt;&#xA;Trail of Bits (virtual): September 2024 (with Miro Haller)&lt;br /&gt;&#xA;Apple (virtual): October 2024 (with Miro Haller)&lt;br /&gt;&#xA;Amazon AWS (virtual): October 2024 (with Miro Haller)&lt;br /&gt;&#xA;LTH, Lund University (Lund, Sweden): October 2024&lt;br /&gt;&#xA;Google (virtual): November 2024 (with Miro Haller)&lt;br /&gt;&#xA;University of St. Gallen (St. Gallen, Switzerland): December 2024&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Teaching</title>
+      <link>//localhost:1313/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/teaching/</guid>
+      <description>&lt;p&gt;&lt;q&gt;When one teaches, two learn.&lt;/q&gt; –Robert Heinlein&lt;/p&gt;&#xA;&lt;h1 id=&#34;teaching-activities&#34;&gt;Teaching Activities&lt;/h1&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve had the opportunity to teach a wide range of different topics, from sailing to English and mathematics.&#xA;Here are some of my more recent experiences.&lt;/p&gt;&#xA;&lt;h2 id=&#34;thesis-supervision&#34;&gt;Thesis supervision&lt;/h2&gt;&#xA;&lt;h3 id=&#34;masters-thesis-projects&#34;&gt;Master&amp;rsquo;s thesis projects:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Giovanni Torrisi, &amp;ldquo;Analyzing Cryptography in the Wild: Bitwarden&amp;rdquo;, Fall 2024&lt;/li&gt;&#xA;&lt;li&gt;Nicola Dardanis, &amp;ldquo;Bridging the Gap: Design and Implementation of Secure Shared Folders&amp;rdquo;, Summer 2024 (co-supervised by Matteo Scarlata)&lt;/li&gt;&#xA;&lt;li&gt;Valentina Iliescu, &amp;ldquo;Multi-Device Password Hardening&amp;rdquo;, Spring 2024 (co-supervised by Matteo Scarlata)&lt;/li&gt;&#xA;&lt;li&gt;Léa Micheloud, &amp;ldquo;Securing Cloud Storage with OpenPGP: An Analysis of Proton Drive&amp;rdquo;, Fall 2023 (co-supervised by Daniel Huigens at Proton AG)&lt;/li&gt;&#xA;&lt;li&gt;Younis Khalil, &amp;ldquo;Implementing a Forward-Secure Cloud Storage System&amp;rdquo;, Spring 2023 (co-supervised by Felix Günther)&lt;/li&gt;&#xA;&lt;li&gt;Miro Haller, &amp;ldquo;Cloud Storage Systems: From Bad Practice to Practical Attacks&amp;rdquo;, Spring 2022 (co-supervised by Kenny Paterson)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;bachelors-thesis-and-semester-thesis-projects&#34;&gt;Bachelor&amp;rsquo;s thesis and semester thesis projects:&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Daniele Coppola, &amp;ldquo;Breaking Cryptography in the Wild: NextCloud&amp;rdquo;, semester project, Fall 2022 (co-supervised by Martin Albrecht and Kenny Paterson)&lt;/li&gt;&#xA;&lt;li&gt;Younis Khalil, &amp;ldquo;Implementing a Puncturable Key-Wrapping Library&amp;rdquo;, semester project, Fall 2022 (co-supervised by Felix Günther)&lt;/li&gt;&#xA;&lt;li&gt;Mirco Stäuble, &amp;ldquo;Data Structures for Puncturable Encryption&amp;rdquo;, BSc thesis, Spring 2021&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;university-teaching&#34;&gt;University Teaching&lt;/h2&gt;&#xA;&lt;h3 id=&#34;taing&#34;&gt;TAing&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Computer Science I (C++)&lt;/strong&gt;, BSc course at ETH, Fall 2024.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Applied Cryptography&lt;/strong&gt;, MSc course at ETH, Spring 2020, 2022 and 2023.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Theoretical Computer Science&lt;/strong&gt;, BSc course at ETH, Fall 2020.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Introduction to Theory of Computability&lt;/strong&gt;, undergraduate course at UCSD, Spring 2018.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;seminar-supervision&#34;&gt;Seminar Supervision&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Current Topics in Cryptography&lt;/strong&gt;, MSc seminar course at ETH Zurich, Spring 2024.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;supplemental-instruction&#34;&gt;Supplemental Instruction&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Linear Algebra&lt;/strong&gt;, BSc course at LTH, Fall 2015, 2016 and 2018.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Multivariate calculus&lt;/strong&gt;, BSc course at LTH, Spring 2016, 2017.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Mechanics&lt;/strong&gt;, BSc course at LTH, Spring 2016, 2017 and 2019.&lt;/li&gt;&#xA;&lt;li&gt;During 2016 and 2018-2019, I was also a method supervisor and coach for other supplemental instructors at LTH.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
