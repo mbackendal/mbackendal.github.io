@@ -3,8 +3,9 @@ layout: landing_page
 image: avatar.jpg
 ---
 
-Hi. I'm Matilda,
+Hi, I'm Matilda.
 
-A doctoral student in the [Applied Cryptography group](https://appliedcrypto.ethz.ch/) at ETH Zurich, advised by Professor Kenny Paterson.
+Starting Januaury, I will be an assistant professor at [USI](https://www.usi.ch/en).
 
-Feel free to [get in touch](mailto:mbackendal@inf.ethz.ch)!
+I am hiring PhD students.
+If you want to do research in applied cryptography and are interested in working with me, feel free to [get in touch](mailto:matilda.backendal@usi.ch)!

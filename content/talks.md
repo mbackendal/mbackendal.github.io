@@ -5,7 +5,7 @@ hide_title: true
 
 # Selected talks
 - **Key Derivation Functions Without a Grain of Salt**  
-EUROCRYPT (Madrid, Spain): May 2025
+EUROCRYPT (Madrid, Spain): May 2025 [[video](https://www.youtube.com/watch?v=GlCugEM-hRM&list=PLeeS-3Ml-rpow9GM-QoAkD1Rh8-m9uV4W&index=37&t=41m25s)]
 
 - **Provable Security for End-to-End Encrypted Cloud Storage**  
 RWC (Sofia, Bulgaria): March 2025 [[video](https://www.youtube.com/live/6FQX2otSbuE?feature=shared&t=506)] (with Miro Haller)  
