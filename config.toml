@@ -2,7 +2,7 @@
 # Global options
 baseURL = "/"
 canonifyURLs = true
-copyright = "© 2025 by Matilda Backendal. <a href='/privacy'>Privacy policy</a>."
+copyright = "© 2026 by Matilda Backendal. <a href='/privacy'>Privacy policy</a>."
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 languageCode = "en"
@@ -38,7 +38,7 @@ title = "Matilda Backendal"
         author = "Matilda Backendal"
         custom_css = "/custom.css"
         description = "Hi, I'm Matilda"
-        keywords = ["cryptography", "academic", "ETH", "security", "doctorate"]
+        keywords = ["cryptography", "academic", "USI", "security", "research"]
 
     [params.navigation]
         show_navigation = true
@@ -61,7 +61,7 @@ title = "Matilda Backendal"
         [params.social.email]
             name = "E-Mail"
             class = "fas fa-envelope"
-            url = "mailto:mbackendal@inf.ethz.ch"
+            url = "mailto:matilda.backendal@usi.ch"
             weight = 1
         [params.social.github]
             name = "GitHub"
@@ -76,7 +76,7 @@ title = "Matilda Backendal"
         [params.social.institution]
             name = "My institution"
             class = "fas fa-university"
-            url = "https://appliedcrypto.ethz.ch/people/person-detail.MjYyODM0.TGlzdC8zMzE4LC0yODgzMDgzMDc=.html"
+            url = "https://usi.to/boaq"
             weight = 5
         [params.social.linkedin]
             name = "LinkedIn"

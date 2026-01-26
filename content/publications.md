@@ -4,6 +4,12 @@ hide_title: true
 ---
 
 # Peer-reviewed papers
+1. [**Zero Knowledge (About) Encryption: A Comparative Security Analysis of Three Cloud-based Password Managers**](https://eprint.iacr.org/2026/058)  
+*M. Scarlata, G. Torrisi, M. Backendal, and K.G. Paterson*  
+<sm>
+To appear at USENIX 2026  
+</sm>
+
 1. [**Key Derivation Functions Without a Grain of Salt**](https://eprint.iacr.org/2025/657)  
 *M. Backendal, S. Clermont, M. Fischlin, and F. Günther*  
 <sm>
@@ -74,6 +80,11 @@ DOI: [10.1109/MSEC.2024.3352788](10.1109/MSEC.2024.3352788)
 
 
 # Theses
+**<sm> PhD thesis </sm>**
+[Thriving in Between Theory and Practice: Case Studies in Provable Security](https://www.research-collection.ethz.ch/entities/publication/e5006f0e-3556-4562-ab3f-1389503a07af)  
+<sm> *M. Backendal*,
+ETH Zurich, October 2025
+</sm>
 
 **<sm> Master thesis </sm>**
 [Puncturable Symmetric KEMs for Forward-Secret 0-RTT Key Exchange](https://lup.lub.lu.se/student-papers/search/publication/8979963)  

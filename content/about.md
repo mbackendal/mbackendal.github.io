@@ -3,9 +3,9 @@ title: "About"
 math: false
 ---
 
-I will be starting as an assistant professor at [USI](https://www.usi.ch/en) (Università della Svizzera italiana) in January 2026.
+I am an assistant professor at [USI](https://www.usi.ch/en) (Università della Svizzera italiana).
 Until recently I was a PhD student at ETH Zurich in the applied cryptography group, advised by [Kenny Paterson](https://appliedcrypto.ethz.ch/people/person-detail.MjU0MDM1.TGlzdC8zMzE4LC0yODgzMDgzMDc=.html).
-I wrote my doctoral thesis on provable security for applied cryptography, focused on cloud storage security [[1](https://eprint.iacr.org/2024/989), [2](https://mega-awry.io/), [3](https://eprint.iacr.org/2024/546)] and key derivation [[4](https://eprint.iacr.org/2025/657), [5](https://eprint.iacr.org/2024/935), [6](https://eprint.iacr.org/2023/861)].
+I wrote my [doctoral thesis](https://www.research-collection.ethz.ch/entities/publication/e5006f0e-3556-4562-ab3f-1389503a07af) on provable security for applied cryptography, focused on cloud storage security [[1](https://eprint.iacr.org/2024/989), [2](https://mega-awry.io/), [3](https://eprint.iacr.org/2024/546)] and key derivation [[4](https://eprint.iacr.org/2025/657), [5](https://eprint.iacr.org/2024/935), [6](https://eprint.iacr.org/2023/861)].
 
 I am a co-founder and organizer of [CAW](https://caw.cryptanalysis.fun/), the Cryptographic Applications Workshop.
 
