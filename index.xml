@@ -1,27 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Matilda Backendal</title><link>/</link><description>Recent content on Matilda Backendal</description><generator>Hugo</generator><language>en</language><copyright>© 2025 by Matilda Backendal. &lt;a href='/privacy'&gt;Privacy policy&lt;/a&gt;.</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>&lt;p&gt;I will be starting as an assistant professor at &lt;a href="https://www.usi.ch/en"&gt;USI&lt;/a&gt; (Università della Svizzera italiana) in January 2026.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Matilda Backendal</title><link>/</link><description>Recent content on Matilda Backendal</description><generator>Hugo</generator><language>en</language><copyright>© 2026 by Matilda Backendal. &lt;a href='/privacy'&gt;Privacy policy&lt;/a&gt;.</copyright><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>&lt;p&gt;I am an assistant professor at &lt;a href="https://www.usi.ch/en"&gt;USI&lt;/a&gt; (Università della Svizzera italiana).
 Until recently I was a PhD student at ETH Zurich in the applied cryptography group, advised by &lt;a href="https://appliedcrypto.ethz.ch/people/person-detail.MjU0MDM1.TGlzdC8zMzE4LC0yODgzMDgzMDc=.html"&gt;Kenny Paterson&lt;/a&gt;.
-I wrote my doctoral thesis on provable security for applied cryptography, focused on cloud storage security [&lt;a href="https://eprint.iacr.org/2024/989"&gt;1&lt;/a&gt;, &lt;a href="https://mega-awry.io/"&gt;2&lt;/a&gt;, &lt;a href="https://eprint.iacr.org/2024/546"&gt;3&lt;/a&gt;] and key derivation [&lt;a href="https://eprint.iacr.org/2025/657"&gt;4&lt;/a&gt;, &lt;a href="https://eprint.iacr.org/2024/935"&gt;5&lt;/a&gt;, &lt;a href="https://eprint.iacr.org/2023/861"&gt;6&lt;/a&gt;].&lt;/p&gt;
+I wrote my &lt;a href="https://www.research-collection.ethz.ch/entities/publication/e5006f0e-3556-4562-ab3f-1389503a07af"&gt;doctoral thesis&lt;/a&gt; on provable security for applied cryptography, focused on cloud storage security [&lt;a href="https://eprint.iacr.org/2024/989"&gt;1&lt;/a&gt;, &lt;a href="https://mega-awry.io/"&gt;2&lt;/a&gt;, &lt;a href="https://eprint.iacr.org/2024/546"&gt;3&lt;/a&gt;] and key derivation [&lt;a href="https://eprint.iacr.org/2025/657"&gt;4&lt;/a&gt;, &lt;a href="https://eprint.iacr.org/2024/935"&gt;5&lt;/a&gt;, &lt;a href="https://eprint.iacr.org/2023/861"&gt;6&lt;/a&gt;].&lt;/p&gt;
 &lt;p&gt;I am a co-founder and organizer of &lt;a href="https://caw.cryptanalysis.fun/"&gt;CAW&lt;/a&gt;, the Cryptographic Applications Workshop.&lt;/p&gt;
 &lt;p&gt;In the spring of 2025, I spent four months working at Apple as an intern in the Cryptographic Engineering team within &lt;a href="https://security.apple.com/"&gt;Apple Security Engineering and Architecture (SEAR)&lt;/a&gt;, applying my research to real-world cryptographic systems.
 Speaking of real world: my co-authors and I had three talks accepted at Real World Crypto 2025!&lt;/p&gt;</description></item><item><title>Privacy policy</title><link>/privacy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/privacy/</guid><description>&lt;h2 id="links-to-other-websites"&gt;Links to other websites&lt;/h2&gt;
 &lt;p&gt;Other websites referenced here may collect information about you, use cookies, embed additional tracking services from third parties, and record your interaction with that embedded content, including your interaction with the embedded content if you have an account and are signed in to that website.&lt;/p&gt;</description></item><item><title>Publications &amp; Talks</title><link>/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/publications/</guid><description>&lt;h1 id="peer-reviewed-papers"&gt;Peer-reviewed papers&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;
+&lt;p&gt;&lt;a href="https://eprint.iacr.org/2026/058"&gt;&lt;strong&gt;Zero Knowledge (About) Encryption: A Comparative Security Analysis of Three Cloud-based Password Managers&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;M. Scarlata, G. Torrisi, M. Backendal, and K.G. Paterson&lt;/em&gt;&lt;br /&gt;
+&lt;sm&gt;
+To appear at USENIX 2026&lt;br /&gt;
+&lt;/sm&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;a href="https://eprint.iacr.org/2025/657"&gt;&lt;strong&gt;Key Derivation Functions Without a Grain of Salt&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
 &lt;em&gt;M. Backendal, S. Clermont, M. Fischlin, and F. Günther&lt;/em&gt;&lt;br /&gt;
 &lt;sm&gt;
 44th Annual International Conference on the Theory and Applications of Cryptographic Techniques (EUROCRYPT 2025)
 Lecture Notes in Computer Science, Volume 15608 pp. 393–426. Springer, May 2025&lt;br /&gt;
-&lt;/sm&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href="https://eprint.iacr.org/2024/989"&gt;&lt;strong&gt;A Formal Treatment of End-to-End Encrypted Cloud Storage&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
-&lt;em&gt;M. Backendal, H. Davis, F. Günther, M. Haller, and K.G. Paterson&lt;/em&gt;&lt;br /&gt;
-&lt;sm&gt;
-44th Annual International Cryptology Conference (CRYPTO 2024)&lt;br /&gt;
-Lecture Notes in Computer Science, Volume 14921, pp. 40-74, Springer, Aug. 2024&lt;br /&gt;
-&lt;/sm&gt;
-&lt;a href="https://youtu.be/epiON1Kjr8o?feature=shared&amp;amp;t=1110"&gt;Talk at CRYPTO&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Talks</title><link>/talks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/talks/</guid><description>&lt;h1 id="selected-talks"&gt;Selected talks&lt;/h1&gt;
+&lt;/sm&gt;&lt;/p&gt;</description></item><item><title>Talks</title><link>/talks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/talks/</guid><description>&lt;h1 id="selected-talks"&gt;Selected talks&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Key Derivation Functions Without a Grain of Salt&lt;/strong&gt;&lt;br /&gt;
