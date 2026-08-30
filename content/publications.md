@@ -7,7 +7,7 @@ hide_title: true
 1. [**Zero Knowledge (About) Encryption: A Comparative Security Analysis of Three Cloud-based Password Managers**](https://eprint.iacr.org/2026/058)  
 *M. Scarlata, G. Torrisi, M. Backendal, and K.G. Paterson*  
 <sm>
-To appear at USENIX 2026  
+35th USENIX Security Symposium (USENIX 2026)  
 </sm>
 
 1. [**Key Derivation Functions Without a Grain of Salt**](https://eprint.iacr.org/2025/657)  

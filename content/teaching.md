@@ -7,7 +7,7 @@ hide_title: true
 
 # Teaching Activities
 I've had the opportunity to teach a wide range of different topics, from sailing to English and mathematics.
-Here are some of my more recent experiences.
+Here are some of the more recent experiences.
 
 ## Thesis supervision
 ### Master's thesis projects:
@@ -23,7 +23,7 @@ Here are some of my more recent experiences.
 * Younis Khalil, "Implementing a Puncturable Key-Wrapping Library", semester project, Fall 2022 (co-supervised by Felix Günther)
 * Mirco Stäuble, "Data Structures for Puncturable Encryption", BSc thesis, Spring 2021
 
-## University Teaching  
+## Courses  
 ### TAing
 * **Computer Science I (C++)**, BSc course at ETH, Fall 2024.
 * **Applied Cryptography**, MSc course at ETH, Spring 2020, 2022 and 2023.
