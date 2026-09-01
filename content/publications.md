@@ -10,6 +10,13 @@ hide_title: true
 35th USENIX Security Symposium (USENIX 2026)  
 </sm>
 
+1. [**Group Key Progression: Strong Security for Shared Persistent Data**](https://eprint.iacr.org/2025/1028)  
+*M. Backendal, D. Balbás, and M. Haller*  
+<sm>
+45th Annual International Conference on the Theory and Applications of Cryptographic Techniques (EUROCRYPT 2026)
+Lecture Notes in Computer Science, Volume 16542 pp. 34–65. Springer, May 2026  
+</sm>
+
 1. [**Key Derivation Functions Without a Grain of Salt**](https://eprint.iacr.org/2025/657)  
 *M. Backendal, S. Clermont, M. Fischlin, and F. Günther*  
 <sm>
