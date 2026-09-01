@@ -70,7 +70,7 @@ Lecture Notes in Computer Science, Volume 11252, pp. 154–170. Springer, Nov 20
 
 
 # Articles
-1. [**End-to-End Encrypted Cloud Storage**](https://static.cryptanalysis.fun/papers/e2ee-cloud-storage.pdf)  
+1. [**End-to-End Encrypted Cloud Storage**](https://github.com/pdfs/e2ee-cloud-storage.pdf)  
 *M. Backendal, M. Haller, and K.G. Paterson*  
 <sm>
 IEEE Security and Privacy (S&P Magazine)  
